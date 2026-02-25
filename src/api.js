@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-const API_URL = 'https://c1sistema-matriculas.vercel.app/api'
+
+const API_URL = 'https://c1sistema-matriculas-v2back.vercel.app/api'
 
 const api = axios.create({
   baseURL: API_URL
