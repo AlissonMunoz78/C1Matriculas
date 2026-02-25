@@ -4,6 +4,6 @@ frontend: https://c1-matriculas-3lwi.vercel.app/login
 
 Credenciales de acceso
 
-Correo electrónico: lxoc@gmail.com
+Correo electrónico: ali@gmail.com
 
 Contraseña: 123456
